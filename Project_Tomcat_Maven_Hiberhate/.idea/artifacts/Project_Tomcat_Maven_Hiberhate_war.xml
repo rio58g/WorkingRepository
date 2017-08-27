@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Project_Tomcat_Maven_Hiberhate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ua.rio58.maven_tomcat_hibernate.war">
+      <element id="artifact" artifact-name="Project_Tomcat_Maven_Hiberhate:war exploded" />
+    </root>
+  </artifact>
+</component>
